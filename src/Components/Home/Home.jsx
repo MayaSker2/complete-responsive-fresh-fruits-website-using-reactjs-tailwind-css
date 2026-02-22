@@ -26,14 +26,14 @@ const Home = () => {
           variants={FadeRight(0.9)}
           initial="hidden"
           whileInView="visible"
-          className='text-2xl tracking-wide '>
+          className='text-2xl text-center tracking-wide '>
             Order Now For Fresh Healthy Life
           </motion.p>
           <motion.p
           variants={FadeRight(1.2)}
           initial="hidden"
           whileInView="visible"
-          className='text-gray-400'>
+          className='text-gray-400 text-center'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
             Rem magnam et quia mollitia vel impedit
             non pariatur nihil, iusto dolore nobis repellat dolores fugit,
